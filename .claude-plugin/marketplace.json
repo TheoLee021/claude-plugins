@@ -10,8 +10,9 @@
       "description": "UCSD study room booking via AI",
       "version": "1.0.0",
       "source": {
-        "source": "github",
-        "path": "TheoLee021/ucsd-study-room/plugin"
+        "source": "url",
+        "url": "https://github.com/TheoLee021/ucsd-study-room.git",
+        "path": "plugin"
       }
     }
   ]
