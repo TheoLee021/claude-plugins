@@ -11,8 +11,7 @@
       "version": "1.0.0",
       "source": {
         "source": "url",
-        "url": "https://github.com/TheoLee021/ucsd-study-room.git",
-        "path": "plugin"
+        "url": "https://github.com/TheoLee021/ucsd-study-room-plugin.git"
       }
     }
   ]
